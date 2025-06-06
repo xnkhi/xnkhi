@@ -48,4 +48,4 @@
 
 <h2 align="left">Contacts:</h2>
 
-![Discord Badge](https://img.shields.io/badge/-xnkh-blue?style=flat-square&color=454545&labelColor=454545&logo=Discord&logoColor=white)
+![Discord Badge](https://img.shields.io/badge/-xnkh-blue?style=flat-square&color=454545&labelColor=454545&logo=Discord&logoColor=white)  ![Instagram Badge](https://img.shields.io/badge/-cl30p47r4-blue?style=flat-square&color=454545&labelColor=454545&logo=Instagram&logoColor=white)
