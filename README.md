@@ -4,8 +4,11 @@
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/leadersportraits.png" alt="Supreme Leaders" style="max-width: 100%; width: 45%; margin: 0 20px;">
-  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/DPRKNationalFlag.png" alt="National Flag" style="max-width: 100%; width: 45%; margin: 0 20px;">
+  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/leadersportraits.png" alt="Supreme Leaders" style="max-width: 100%; width: 40%; margin: 0 20px;">
+  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/DPRKNationalFlag.png" alt="National Flag" style="max-width: 100%; width: 40%; margin: 0 20px;">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/kp-korea.png" alt="National Flag" style="max-width: 100%; width: 30%; margin: 0 20px;">
 </div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
