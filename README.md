@@ -33,16 +33,16 @@
 
 
 <h2 align="left">Skills:</h2>
-- Advanced high-level programming in languages like Lua, Python, and JavaScript.
-- Low-level programming with the C programming language.
-- Full stack development.
-- Ability to quickly adapt to new development environments.
-- Artistic UI/UX Design.
-- Professional documentation composition.
-- Project management with technologies like Git.
-- Development within the ROBLOX game engine.
-- Developing software for Linux-based operating systems.
-- System administration for Linux-based operating systems.
+- Advanced high-level programming in languages like Lua, Python, and JavaScript. <br>
+- Low-level programming with the C programming language. <br>
+- Full stack development. <br>
+- Ability to quickly adapt to new development environments. <br>
+- Artistic UI/UX Design. <br>
+- Professional documentation composition. <br>
+- Project management with technologies like Git. <br>
+- Development within the ROBLOX game engine. <br>
+- Developing software for Linux-based operating systems. <br>
+- System administration for Linux-based operating systems. <br>
 
 <br>
 
