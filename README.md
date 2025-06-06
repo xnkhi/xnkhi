@@ -13,6 +13,7 @@
 </a>
 </div>
 <h2 align="left">Technologies and Tools I use:</h2>
+<div align="center">
 <p align="left">
     <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/lua.png" alt="lua" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/c.png" alt="c" width="40" height="40"/> </a>
@@ -28,6 +29,8 @@
     <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/arch.png" alt="arch" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/windows.png" alt="windows" width="40" height="40"/> </a>
 </p>
+</div>
+
 
 <h2 align="left">Skills:</h2>
 - Advanced high-level programming in languages like Lua, Python, and JavaScript.
