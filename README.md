@@ -1,12 +1,12 @@
 <h2 align="left">
   Hi, I'm Ankhi.<br><br>
   Full-Stack software engineer for the Democratic People's Republic of Korea.<br><br>
-
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/leadersportraits.png" alt="Supreme Leaders" width="500">
-    <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/DPRKNationalFlag.png" alt="National Flag" width="500">
-  </div>
 </h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/leadersportraits.png" alt="Supreme Leaders" style="max-width: 100%; width: 45%; margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/DPRKNationalFlag.png" alt="National Flag" style="max-width: 100%; width: 45%; margin: 0 10px;">
+</div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
