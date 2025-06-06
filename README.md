@@ -9,6 +9,7 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/kp-korea.png" alt="National Flag" style="max-width: 100%; width: 30%; margin: 0 20px;">
+  <a href="https://kp-korea.org">KP-Korea.org</a>
 </div>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
