@@ -14,7 +14,7 @@
 </div>
 <h2 align="left">Technologies and Tools I use:</h2>
 <div align="center">
-<p align="left">
+<p align="center">
     <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/lua.png" alt="lua" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/c.png" alt="c" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/xnkhi/xnkhi/refs/heads/main/assets/python.png" alt="python" width="40" height="40"/> </a>
