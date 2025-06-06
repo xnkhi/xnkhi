@@ -48,4 +48,4 @@
 
 <h2 align="left">Contacts:</h2>
 
-![Discord Badge](https://img.shields.io/badge/-xnkh-blue?style=flat-square&color=454545&labelColor=454545&logo=Discord&logoColor=white)  ![Instagram Badge](https://img.shields.io/badge/-cl30p47r4-blue?style=flat-square&color=454545&labelColor=454545&logo=Instagram&logoColor=white)
+![Discord Badge](https://img.shields.io/badge/-xnkh-blue?style=flat-square&color=454545&labelColor=454545&logo=Discord&logoColor=white)  ![Email Badge 1](https://img.shields.io/badge/-ankhi@kp-korea.org-blue?style=flat-square&color=454545&labelColor=454545&logo=Gmail&logoColor=white)  ![Email Badge 2](https://img.shields.io/badge/-juleseleftheria@proton.me-blue?style=flat-square&color=454545&labelColor=454545&logo=Gmail&logoColor=white)  [![Instagram Badge](https://img.shields.io/badge/-cl30p47r4-blue?style=flat-square&color=454545&labelColor=454545&logo=Instagram&logoColor=white)](https://www.instagram.com/cl30p47r4/)
